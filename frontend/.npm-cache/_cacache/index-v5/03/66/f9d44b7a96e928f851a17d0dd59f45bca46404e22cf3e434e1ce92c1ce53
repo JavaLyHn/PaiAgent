@@ -1,0 +1,2 @@
+
+050a69f005495ec00b13e26aa3b13cdec41732a1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/proxy-from-env/-/proxy-from-env-1.1.0.tgz","integrity":null,"time":1771935947932,"size":"262","metadata":{"time":1771935947932,"url":"http://registry.npm.taobao.org/proxy-from-env/-/proxy-from-env-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 24 Feb 2026 12:25:47 GMT","location":"https://registry.npmmirror.com/proxy-from-env/-/proxy-from-env-1.1.0.tgz"},"options":{"compress":true},"status":301}}

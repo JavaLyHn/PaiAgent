@@ -1,0 +1,2 @@
+
+5ac71d800e8bcf85fdbdc541dd4f010e5ec4ee40	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@tailwindcss/node/-/node-4.1.17.tgz","integrity":null,"time":1771935948094,"size":"262","metadata":{"time":1771935948094,"url":"http://registry.npm.taobao.org/@tailwindcss/node/-/node-4.1.17.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 24 Feb 2026 12:25:47 GMT","location":"https://registry.npmmirror.com/@tailwindcss/node/-/node-4.1.17.tgz"},"options":{"compress":true},"status":301}}

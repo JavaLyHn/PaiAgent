@@ -1,0 +1,2 @@
+
+af8960b632756b92573b82c134c8f38976c4af44	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/delayed-stream/-/delayed-stream-1.0.0.tgz","integrity":null,"time":1771935948016,"size":"262","metadata":{"time":1771935948016,"url":"http://registry.npm.taobao.org/delayed-stream/-/delayed-stream-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 24 Feb 2026 12:25:47 GMT","location":"https://registry.npmmirror.com/delayed-stream/-/delayed-stream-1.0.0.tgz"},"options":{"compress":true},"status":301}}

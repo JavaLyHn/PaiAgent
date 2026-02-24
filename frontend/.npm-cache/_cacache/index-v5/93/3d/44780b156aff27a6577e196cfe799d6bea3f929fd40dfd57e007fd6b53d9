@@ -1,0 +1,2 @@
+
+81d0614b3c5e95cf611c632bdcd115a6e1268e3b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz","integrity":null,"time":1771935948172,"size":"262","metadata":{"time":1771935948172,"url":"http://registry.npm.taobao.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 24 Feb 2026 12:25:47 GMT","location":"https://registry.npmmirror.com/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz"},"options":{"compress":true},"status":301}}

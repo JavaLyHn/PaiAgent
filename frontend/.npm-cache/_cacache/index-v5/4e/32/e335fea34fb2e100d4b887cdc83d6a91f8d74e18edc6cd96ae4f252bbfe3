@@ -1,0 +1,2 @@
+
+170c733dca816fb7a6c614511aacd1ce27f39db8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rc-component/image/-/image-1.5.1.tgz","integrity":null,"time":1771935948150,"size":"262","metadata":{"time":1771935948150,"url":"http://registry.npm.taobao.org/@rc-component/image/-/image-1.5.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 24 Feb 2026 12:25:47 GMT","location":"https://registry.npmmirror.com/@rc-component/image/-/image-1.5.1.tgz"},"options":{"compress":true},"status":301}}

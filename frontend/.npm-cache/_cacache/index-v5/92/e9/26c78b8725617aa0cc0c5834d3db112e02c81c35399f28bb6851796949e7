@@ -1,0 +1,2 @@
+
+fc9bfeeca51ad9e82d30eb6002effc3480a547bc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/argparse/-/argparse-2.0.1.tgz","integrity":null,"time":1771935948065,"size":"262","metadata":{"time":1771935948064,"url":"http://registry.npm.taobao.org/argparse/-/argparse-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 24 Feb 2026 12:25:47 GMT","location":"https://registry.npmmirror.com/argparse/-/argparse-2.0.1.tgz"},"options":{"compress":true},"status":301}}
